@@ -253,3 +253,12 @@ li.done
     list-style-image:url("checked.png");
 }
 
+ol.expo
+{
+}
+
+ol.expo li {
+    font-weight: bold;
+    color: #990099;
+}
+
