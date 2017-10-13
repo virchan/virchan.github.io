@@ -272,7 +272,7 @@ ol.expo a
     border-color: #d43f3a;
     display: inline-block;
     padding: 6px 12px;
-    margin-bottom: 0;
+    margin-bottom: inherit;
     margin-top: 0;
     font-size: 14px;
     font-weight: 400;
