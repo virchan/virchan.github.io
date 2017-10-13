@@ -273,7 +273,7 @@ ol.expo a
     display: inline-block;
     padding: 6px 12px;
     margin-bottom: 0;
-    margin-top: inherit;
+    margin-top: 0;
     font-size: 14px;
     font-weight: 400;
     text-align: center;
