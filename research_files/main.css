@@ -284,6 +284,11 @@ ol.expo a
     border-radius: 4px;
 }
 
+ol.expo a
+{
+    color: #f2f2f2;
+}
+
 ol.expo a:visited
 {
 font-weight: bold;
