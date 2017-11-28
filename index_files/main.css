@@ -61,7 +61,7 @@ h5{
 
 .ContactFrame
 {
-    position: absolute;
+    position: fixed;
     left:2%;
     width:15%;
     top:44px;

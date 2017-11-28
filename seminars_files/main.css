@@ -61,7 +61,7 @@ h5{
 
 .ContactFrame
 {
-    position: absolute;
+    position: fixed;
     left:2%;
     width:15%;
     top:44px;
@@ -251,5 +251,30 @@ li.undone
 li.done
 {
     list-style-image:url("checked.png");
+}
+
+.right
+{
+	position:relative;
+	float:right;
+	clear:both;
+	margin-top:110px;
+	margin-right:0px;
+	width: 425px;
+        background-color: #00E0C6;
+}
+
+.left
+{
+	position: absolute;
+	float: left;
+	clear: left;
+	margin-top: 100px;
+	margin-left: 10px;
+	width: 559px;
+	left: 9px;
+	top: 12px;
+	height: 253px;
+        background-color: #00E0C6;
 }
 
