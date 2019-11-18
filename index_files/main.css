@@ -5,7 +5,7 @@
 	line-height: 1.166;	
 	margin: 0px;
 	padding: 0px;
-	background: #023769 fixed;
+	background: #000000 fixed; //{real background colour}
 }
 
 /* Headings */
@@ -51,7 +51,7 @@ h5{
 {
     float:left;
     width:80.5%;
-    background:#023769;
+    background:#000000; //{background colour behind navigation bar}
     font-size:93%;
     line-height:normal;
     position:absolute;
@@ -62,10 +62,15 @@ h5{
 .ContactFrame
 {
     position: fixed;
+    border-top-left-radius:5pt;
+    border-top-right-radius:5pt;
+    border-bottom-left-radius:5pt;
+    border-bottom-right-radius:5pt;
+    padding: 5px 5px;
     left:2%;
     width:15%;
     top:44px;
-    background-color: #FFFF30;
+    background-color: #FFFF30; //{background colour for Contact Frame}
     border-radius: 5pt;
     font: small Verdana,sans-serif;
     font-size:80%;
@@ -74,11 +79,15 @@ h5{
 .MainFrame
 {
     position:absolute;
+    border-top-right-radius:5pt;
+    border-bottom-left-radius:5pt;
+    border-bottom-right-radius:5pt;
+    padding: 10px 10px;
     top: 44px;
     left: 19%;
     right: 2%;
     width: 78.6%;
-    background-color: #00E0C6;
+    background-color: #ffffff; //{background colour for text}
 }
 
 
@@ -120,12 +129,12 @@ h5{
     color: #3B3326;
     font-size:80%;
     margin-right:3px;
-    background:#10A9B7;
+    background:#a9a9a9; //{background colour for nagivation bar}
 }
 
 #current a
 {
-    background:#0C93D2;
+    background:#FFFF30;
     border-top-left-radius:5pt;
     border-top-right-radius:5pt;
 }
@@ -252,4 +261,164 @@ li.done
 {
     list-style-image:url("checked.png");
 }
+
+ol.expo
+{
+}
+
+ol.expo a
+{
+   /* font-weight: bold;
+    color: #990099;
+    display:block;
+    padding: 5px 14px;
+    border-top-left-radius:5pt;
+    border-top-right-radius:5pt;
+    margin-right:94%;
+    background:#10A9B7;border-color:#f2f2f2 */
+    color: #990099;
+    background-color: #d9534f; //{red colour}
+    border-color: #d43f3a;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: inherit;
+    margin-top: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+ol.expo a
+{
+    color: #f2f2f2;
+}
+
+ol.expo a:visited
+{
+font-weight: bold;
+    color: #f2f2f2;
+}
+
+ol.expo a:hover
+{
+font-weight: bold;
+    color: #f2f2f2;
+}
+
+ol.expo li {
+    font-weight: bold;
+    color: #3B3326;
+}
+
+a.pdf
+{
+    color: #f2f2f2;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: inherit;
+    margin-top: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-decoration:none;
+    }
+    
+a.pdf:visited
+{
+font-weight: bold;
+    color: #f2f2f2;
+}
+
+a.pdf:hover
+{
+font-weight: bold;
+    color: #f2f2f2;
+}  
+
+ol.research
+{
+}
+
+ol.research li {
+    font-weight: bold;
+    color: #3B3326;
+}
+
+ol.research a.pdf
+{
+   /* font-weight: bold;
+    color: #333333;
+    display:block;
+    padding: 5px 14px;
+    border-top-left-radius:5pt;
+    border-top-right-radius:5pt;
+    margin-right:94%;
+    background:#10A9B7;border-color:#f2f2f2 */
+    color: #f2f2f2;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: inherit;
+    margin-top: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+ol.research a:hover
+{
+font-weight: bold;
+    color: #f2f2f2;
+}
+
+
+a.slides
+{
+        color: #f2f2f2;
+    background-color: #4f90d9;
+    border-color: #4f90d9;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: inherit;
+    margin-top: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    text-decoration:none;
+    }
+
+a.slides:visited
+{
+font-weight: bold;
+    color: #f2f2f2;
+}
+
+a.slides:hover
+{
+font-weight: bold;
+    color: #f2f2f2;
+}  
 
