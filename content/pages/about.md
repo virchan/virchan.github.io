@@ -33,6 +33,6 @@ rock and roll). I also like hanging out with cats.
 
 We might have met at one of the following places or events:
 
-* [Cannabis Data Science Meetup](https://www.meetup.com/cannabis-data-science/)
+* [Cannabis Data Science Meetup](https://www.linkedin.com/company/cannlytics/about/)
 * [Scientific Python Developer Summit](https://scientific-python.org/summits/developer/2025/)
 * [University of California, Davis](https://www.ucdavis.edu/)
