@@ -41,7 +41,6 @@ TRANSLATION_FEED_ATOM = None
 
 # No tags
 TAGS_SAVE_AS = ''
-TAG_SAVE_AS = ''
 DISPLAY_TAGS_ON_SIDEBAR = False
 
 PYGMENTS_STYLE = "default"
