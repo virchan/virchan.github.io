@@ -7,16 +7,16 @@ I tackle unforeseen and unsolved challenges every day, and I enjoy applying my t
 as a mathematician along with my Python programming skills to run experiments, analyse 
 problems.
 
-I'm currently a *Forward Deployed Engineer - Pre-sales* at [Union.ai](https://www.union.ai/).
-Previously, I worked as a consultant in the San Francisco Bay Area, leveraging open-source libraries from 
+I'm currently working as a consultant in the San Francisco Bay Area, leveraging open-source libraries from 
 the [Scientific Python](https://scientific-python.org/) ecosystem to build production-grade solutions for my clients.
+Previously, I worked as a *Forward Deployed Engineer at [Union.ai](https://www.union.ai/).
 Over time, I've developed specialisations in Machine Learning, Deep Learning, Predictive Data Analysis, Natural Language 
 Processing, and Open Source Development.
 
 I'm a core contributor to [<code>scikit-learn</code>](https://scikit-learn.org), where 
-I collaborate with the core maintainers and other contributors to provide simple and 
+I collaborate with the community to provide simple and 
 efficient tools for accurate data analysis and machine learning. As a member of 
-`scikit-learn`'s Contributor Experience Team, I also help triage issues 
+`scikit-learn`'s Maintainers Team, I also help triage issues 
 and support new contributors in getting familiar with the codebase and contribution 
 process through discussions and pull request reviews.
 
