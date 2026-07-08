@@ -9,9 +9,9 @@ problems.
 
 I'm currently working as a consultant in the San Francisco Bay Area, leveraging open-source libraries from 
 the [Scientific Python](https://scientific-python.org/) ecosystem to build production-grade solutions for my clients.
-Previously, I worked as a *Forward Deployed Engineer at [Union.ai](https://www.union.ai/).
-Over time, I've developed specialisations in Machine Learning, Deep Learning, Predictive Data Analysis, Natural Language 
-Processing, and Open Source Development.
+Previously, I worked as a Forward Deployed Engineer at [Union.ai](https://www.union.ai/).
+Over time, I've developed specialisations in Machine Learning, Predictive Data Analysis,
+Open Source Development, and ML/AI Platform Engineering.
 
 I'm a core contributor to [<code>scikit-learn</code>](https://scikit-learn.org), where 
 I collaborate with the community to provide simple and 
